@@ -1,0 +1,5 @@
+2023-11-05 13:56:05 - Copied: source\test1.txt to replica\test1.txt
+2023-11-05 13:56:35 - Copied: source\test1.txt to replica\test1.txt
+2023-11-05 13:59:19 - Copied: source\test2.txt to replica\test2.txt
+2023-11-05 13:59:19 - Removed File: replica\test1.txt
+2023-11-05 13:59:29 - Copied: source\test2.txt to replica\test2.txt
